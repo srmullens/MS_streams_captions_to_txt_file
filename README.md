@@ -1,5 +1,5 @@
-# streams_dms_to_txt
-Convert closed captioned .dms files from MS Streams to .txt files.
+# dms_to_txt
+Convert closed captioned .dms files (for example, used on Microsoft Streams) to .txt files.
 
 ## Example case: Course lectures
 As a college lecturer, I make videos for my class. My university has purchased access to the Microsoft Office suite of software, which includes Microsoft Streams. To make my videos accessible to students with hearing disabilities, I allow Streams to auto-generate a closed caption file for my video. Like all closed-captions generated automatically by software, it's not perfect and I need to manually revise and edit the file. 
